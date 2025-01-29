@@ -32,6 +32,8 @@ public class Ruin {
 				startAmount--;
 				System.out.println("LOSE");
 			} totalSimulations--;
+			
+			System.out.println("Total simulations " + totalSimulations);
 	}	
 		}
 }
